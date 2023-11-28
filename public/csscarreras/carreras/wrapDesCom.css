@@ -1,0 +1,17 @@
+/*SUPER TITULO*/
+.wrap{
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: linear-gradient(to right, rgb(0 0 0 / .6), rgb(0 0 0 / .6)),
+    url("/desarrolloCom/img1.jpg");
+    background-size: cover;
+    background-position: center;
+}
+.wrap-texto{
+    color: #fff;
+    text-align: center;
+    width: 50%;
+}
